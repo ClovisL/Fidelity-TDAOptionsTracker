@@ -14,3 +14,4 @@ https://datastudio.google.com/reporting/8e352c9b-e674-4c5e-9be7-42fdef6e7f45/pag
 * If you have multiple files across different dates, or want to continuously add more recent information, you can click the following link to a Python notebook of mine that combines two .xlsx files into one: https://github.com/ClovisL/Combine-2-Excel-Files This will be to combine all your spreadsheets into 1 single spreadsheet containing all information to be visualized.
 * Upload the spreadsheet into your Google Drive, open it and save it as a Google Sheets file, so it can be imported into the Looker Dashboard. The .xlsx file will not be needed afterwards.
 * Open the link to the Looker dashboard. Select "Use my own data" and connect it using Google Sheets and selecting your spreadsheet. It should now display your information in the dashboard.
+***(Infomation may not display properly due to table and chart settings being reverted after importing new data. Working on resolving)***
