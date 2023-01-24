@@ -8,7 +8,7 @@ I wrote this program to better help me keep track of my trade history through a 
 
 
 ### I also created a Looker dashboard to visualize charts and tables using the Excel file. Using the following link, and with a Google account, you can import your own data in the form of a Google Sheets file saved in your Google Drive into it for visualization:
-https://lookerstudio.google.com/reporting/8e352c9b-e674-4c5e-9be7-42fdef6e7f45/page/vvEDD/preview
+https://datastudio.google.com/reporting/8e352c9b-e674-4c5e-9be7-42fdef6e7f45/preview
 
 * First, you will use this options tracker Colab notebook to format the CSV file downloaded through Fidelity into a .xlsx file.
 * If you have multiple files across different dates, or want to continuously add more recent information, you can click the following link to a Python notebook of mine that combines two .xlsx files into one: https://github.com/ClovisL/Combine-2-Excel-Files This will be to combine all your spreadsheets into 1 single spreadsheet containing all information to be visualized.
