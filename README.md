@@ -11,6 +11,8 @@ I wrote this program to better help me keep track of my trade history through a 
 https://datastudio.google.com/reporting/bee4f806-cf0a-47e7-afd3-63c688969c21/page/vvEDD/preview
 
 * First, you will use this options tracker Colab notebook to format the CSV file downloaded through Fidelity into a .xlsx file.
-* If you have multiple files across different dates, or want to continuously add more recent information, you can click the following link to a Python notebook of mine that combines two .xlsx files into one: https://github.com/ClovisL/Combine-2-Excel-Files This will be to combine all your spreadsheets into 1 single spreadsheet containing all information to be visualized.
 * Upload the spreadsheet into your Google Drive, open it and save it as a Google Sheets file, so it can be imported into the Looker Dashboard. The .xlsx file will not be needed afterwards.
+* If you have multiple files across different dates, or want to continuously add more recent information, you can click the following link for instructions on importing one Google Sheets file into another: https://support.google.com/a/users/answer/9308940?hl=en
 * Open the link to the Looker dashboard, and you can import your own data and edit as needed. Many of the metrics and settings will need to be fixed to work with a new data source, as Looker will have issues even with an exact copy of the data source used.
+
+*Currently working on a Microsoft Power BI dashboard that will connect to a Microsoft Access database, as an alternative to Looker*
