@@ -7,6 +7,10 @@ The transaction date, ticker, whether it was a call/put, expiration date, strike
 I wrote this program to better help me keep track of my trade history through a more convenient format than what is available through Fidelity's website, allowing me to view my past performance based on ticker and types of trades.
 
 
+### Version of the code for TD Ameritrade CSV files:
+https://colab.research.google.com/drive/1p1Mbvvkc2rEG7hJlnpSpSrq-0YcMQAKg?usp=sharing
+
+
 ### I also created a Looker dashboard to visualize charts and tables using the Excel file. Using the following link, and with a Google account, you can import your own data in the form of a Google Sheets file saved in your Google Drive into it for visualization:
 https://lookerstudio.google.com/reporting/bee4f806-cf0a-47e7-afd3-63c688969c21/preview
 
